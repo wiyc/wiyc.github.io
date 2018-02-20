@@ -1,14 +1,12 @@
 # Site settings
-title: Your awesome title
+title: Western Isles Yacht Club
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Western Isles Yacht Club is a sailing club based in Tobermory on the Isle of Mull. Our purpose is to encourage and support water sports in and around the Western Isles. If you are interested in sailing, rowing, canoeing, wild swimming or anthing else on the water then get in touch.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  wiyc
 
 # Build settings
 markdown: kramdown
