@@ -50,3 +50,11 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+body {
+	background: url(../images/background.jpg) center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
