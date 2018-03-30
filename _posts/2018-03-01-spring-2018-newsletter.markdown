@@ -5,8 +5,6 @@ date:   2018-03-30 09:51:50
 categories: update
 ---
 
-#Members News from the Western Isles Yacht Club
-
 AGM
 ===
 
