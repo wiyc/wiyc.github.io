@@ -1,12 +1,12 @@
 # Site settings
 title: Western Isles Yacht Club
-email: your-email@domain.com
+email: secretary.wiyc at gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The Western Isles Yacht Club is a sailing club based on the Isle of Mull. Our purpose is to encourage and support water sports in and around the Western Isles. 
+  A sailing club based on the Isle of Mull.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  wiyc
+url: "https://www.wiyc.org.uk" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+# github_username:  wiyc
 
 # Build settings
 markdown: kramdown

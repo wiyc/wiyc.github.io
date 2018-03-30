@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the new WIYC site!"
+title:  "Welcome to the WIYC site!"
 date:   2018-02-20 09:51:50
 categories: update
 ---
