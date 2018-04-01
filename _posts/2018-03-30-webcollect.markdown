@@ -9,7 +9,7 @@ Subscription rates are once again unchanged from last year.
 
 If you already pay your subscription via a bank standing order, please email the secretary stating your name and/or payment reference and the date on which your standing order is paid.
 
-In all other cases, please visit our new subscription web page (http://webcollect.org.uk/wiyc).  Act as if you are a new member : click on "Join Here", choose a membership level and enter your details.  You can pay by Direct Debit or Bank Transfer.
+In all other cases, please visit our new subscription [web page](http://webcollect.org.uk/wiyc).  Act as if you are a new member : click on "Join Here", choose a membership level and enter your details.  You can pay by Direct Debit or Bank Transfer.
 
 By offering online subscriptions, we hope to reduce the amount of admin work required by your volunteer committee, as well as improve our communication with you.
 

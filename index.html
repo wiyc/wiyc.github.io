@@ -4,20 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Western Isles Yacht Club</h1>
+  <p>The purpose of the Western Isles Yacht Club is to promote water-sports. This includes dinghy sailing, coastal rowing, sea swimming, canoeing and, of course, yachting. If you are interested in the <a href="/sailing-cadets/">sailing cadets</a> club for kids or <a href="http://isleofmullcoastalrowing.org">coastal rowing on Mull</a> get in touch. Taster sessions are available for people interested in these activities </p>
+  <!-- <h1 class="page-heading">News</h1> -->
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% assign lastpost = site.posts.first %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">Latest News {{ lastpost.date | date: "%b %-d, %Y" }} | See more news <a href="/news/">here</a> | Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ lastpost.url | prepend: site.baseurl }}">{{ lastpost.title }}</a>
         </h2>
       </li>
-    {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

@@ -179,7 +179,7 @@
     list-style: none;
 
     > li {
-		background-color: transparentize($grey-color-light, 0.25);
+		background-color: transparentize($grey-color-light, 0.2);
 		padding:5px 0px 0px 10px;
         margin-bottom: $spacing-unit;
     }
@@ -197,7 +197,7 @@
 }
 
 .rss-subscribe {
-	background-color: transparentize($grey-color-light, 0.25);
+	background-color: transparentize($grey-color-light, 0.2);
 	padding:0px 0px 0px 10px;
 }
 

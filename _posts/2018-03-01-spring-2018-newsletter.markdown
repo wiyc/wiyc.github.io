@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Members News from the Western Isles Yacht Club"
-date:   2018-03-30 09:51:50
+date:   2018-03-01 09:51:50
 categories: update
 ---
 
