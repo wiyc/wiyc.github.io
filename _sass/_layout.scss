@@ -1,6 +1,14 @@
 /**
  * Site header
  */
+
+.logo {
+	margin-top: 50px + $spacing-unit;
+	margin-left: 50px;
+	margin-bottom: auto;
+	position: fixed;
+	
+}
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
