@@ -1,3 +1,9 @@
+---
+layout: page
+title: Code of Conduct
+permalink: /sailing-cadets/
+---
+
 It is the policy of the Club that all participants, coaches, instructors, officials, parents and volunteers show respect and understanding for each other, treat everyone equally within the context of the sport and conduct themselves in a way that reflects the principles of the club. The aim is for all participants to enjoy their sport and to improve performance.
 Abusive language, swearing, intimidation, aggressive behaviour or lack of respect for others and their property will not be tolerated and may lead to disciplinary action.
 
