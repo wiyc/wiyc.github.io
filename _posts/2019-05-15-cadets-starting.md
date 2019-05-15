@@ -9,9 +9,9 @@ The cadets season is starting Wednesday 15th of May this year. You will need to 
 
 Its also nice if you have a towel ready for when you get out if the weather is a bit driech.
 
-You will need your parents to fill out and sign a [cadets consent form](/images/Cadets%20Consent%20Form.pdf) and agree to abide by the club code of conduct.
+You will need your parents to fill out and sign a [cadets consent form](/images/Cadets%20Consent%20Form.pdf) and you will need to abide by the [club code of conduct](/code-of-conduct/)
 
-You also need to be a member of the club if you wish to come to more than one session. Subscription rates are once again unchanged from last year and should be paid online [here](http://webcollect.org.uk/wiyc)
+You also need to be a member of the club if you wish to come to more than one session. Subscription rates are once again unchanged from last year and should be paid online [here](http://webcollect.org.uk/wiyc) 
 
 In addition to this, the cost per session is £2 per person, payable on the day.
 
