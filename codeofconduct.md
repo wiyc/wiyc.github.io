@@ -7,7 +7,7 @@ permalink: /code-of-conduct/
 It is the policy of the Club that all participants, coaches, instructors, officials, parents and volunteers show respect and understanding for each other, treat everyone equally within the context of the sport and conduct themselves in a way that reflects the principles of the club. The aim is for all participants to enjoy their sport and to improve performance.
 Abusive language, swearing, intimidation, aggressive behaviour or lack of respect for others and their property will not be tolerated and may lead to disciplinary action.
 
-#Participants - young sailors, rowers, windsurfers and powerboaters
+# Participants - young sailors, rowers, windsurfers and powerboaters
 
 - Listen to and accept what you are asked to do to improve your performance and keep you safe
 - Respect other participants, coaches, instructors, officials and volunteers
@@ -16,7 +16,7 @@ Abusive language, swearing, intimidation, aggressive behaviour or lack of respec
 - Never bully others either in person, by phone, by text or online
 - Take care of all property belonging to other participants, the club or its members
 
-#Parents
+# Parents
 
 - Support your child’s involvement and help them enjoy their sport
 - Help your child to recognise good performance, not just results
@@ -31,7 +31,7 @@ Abusive language, swearing, intimidation, aggressive behaviour or lack of respec
 - Provide contact details and be available when required
 - Take responsibility for your child’s safety and conduct in and around the event venue
 
-#Coaches, Instructors, Officials and Volunteers
+# Coaches, Instructors, Officials and Volunteers
 
 - Consider the welfare and safety of participants before the development of performance
 - Encourage participants to value their performance and not just results
