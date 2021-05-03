@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WIYC Receives £6,000 Grant from National Lottery Fund"
+title:  "National Lottery Grant"
 date:   2021-05-03 08:51:50
 categories: update
 ---
